@@ -2,9 +2,8 @@
 📸
 https://share.google/WysQot1H0nsH8AwSf
 
-📞
-[![WhatsApp](https://shields.io)](https://wa.me)
+🎼
+UCmkSzYG4ykYKFE4Ow0030zw
 
 🏫📖
-Estudante
 https://share.google/aRJzQ3gcDbWoNjdsz
