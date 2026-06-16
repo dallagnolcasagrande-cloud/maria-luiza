@@ -1,0 +1,12 @@
+<div class="passo ativo" id="passo-1">
+  <p>Você entrou na floresta misteriosa...</p>
+
+  <button class="btn-proximo" data-proximo="2">
+    Avançar
+  </button>
+
+  <button class="btn-voltar" data-voltar="0">
+    Voltar
+  </button>
+</div>
+
